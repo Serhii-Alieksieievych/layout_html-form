@@ -2,14 +2,14 @@ fieldset {
   margin-bottom: 20px;
 }
 
-p {
+.block {
   margin: 10px 0;
 }
 
-.top {
+.top-block {
   margin-top: 0;
 }
 
-.bottom {
+.bottom-block {
   margin-bottom: 0;
 }
